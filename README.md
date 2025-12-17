@@ -56,7 +56,7 @@ The thesis employs a mixed-methods approach:
     ├── scripts/             # Data cleaning, annotation, and analysis scripts
     ├── notebooks/           # Jupyter notebooks documenting exploratory and statistical analyses
     ├── figures/             # Generated plots and visualizations
-    ├── thesis/              # (Optional) LaTeX or compiled thesis document
+    ├── thesis/              # 
     └── README.md
 
 ------------------------------------------------------------------------
@@ -86,12 +86,11 @@ The thesis employs a mixed-methods approach:
 ## Academic Context
 
 - **Degree:** M.Sc. Cognitive Science
-- **Institution:** \[University Name\]
-- **Thesis Advisor:** \[Advisor's Name\]
-- **Year:** \[Year\]
+- **Institution:** \[Universität Osnabrück\]
+- **Thesis Supervisor:** \[Nicole Götzner\]
+- **Year:** \[2023\]
 
-*(Fill in the institution, advisor, and year as appropriate for your
-thesis.)*
+
 
 ------------------------------------------------------------------------
 
